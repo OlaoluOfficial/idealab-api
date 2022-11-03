@@ -1,0 +1,12 @@
+### COMMANDS
+
+Starting the app
+provide the necessary environment variables and run the following command:
+
+    $ yarn start
+
+Building the app
+run the following command:
+
+    $ yarn build
+
